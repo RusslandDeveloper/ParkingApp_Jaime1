@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<android.support.design.widget.BottomNavigationView
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/navigation"
+    android:background="@color/WhiteColor"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:itemIconTint="@color/Greycolor"
+    app:menu="@menu/bottom_nav_items"
+    app:labelVisibilityMode="labeled"
+    android:layout_gravity="bottom"
+
+
+
+    >
+
+</android.support.design.widget.BottomNavigationView>
+

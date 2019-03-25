@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ParkingApp_Jaime1</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="latitude_txt">Latitude</string>
+    <string name="longitude_txt">Longitude</string>
+
+    <string name="txt_search">Search</string>
+    <string name="seekbar_txt">Search for: </string>
+    <string name="txt_menu_find">Find</string>
+    <string name="txt_menu_reservation">Reservation</string>
+    <string name="txt_menu_mycar">Mycar</string>
+
+    <string name="baseURL">http://ridecellparking.herokuapp.com/api/v1/parkinglocations/</string>
+
+</resources>
